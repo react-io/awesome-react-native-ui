@@ -101,6 +101,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 - [react-native-credit-card-input ★265](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
 - [react-native-custom-actsheet ★32](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
+- [react-native-markdown-editor](https://github.com/kunall17/react-native-markdown-editor/) - Markdown editor like github comment editor (contains preview, markdown buttons)
 - [react-native-multi-select ★12](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
 - [react-native-custom-checkbox ★7](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
 - [react-native-dashed-border ★23](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
@@ -697,8 +698,3 @@ Libraries / SDK type additions for React Native development.
 - [Panza ★155](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements ★4303](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 - [Shoutem UI ★1693](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
-
-
-
-
-
