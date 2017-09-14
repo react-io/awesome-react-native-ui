@@ -37,7 +37,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 | Name          | License       | Demo  |
 | ------------- |:-------------:| -----:|
-| [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)      | MIT |    ![](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-Android.gif)  ![](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-iOS.gif) |
+| [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)      | MIT |    ![pic](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-Android.gif)  ![pic](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/master/examples/Screenshots/react-native-splash-screen-iOS.gif) |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
