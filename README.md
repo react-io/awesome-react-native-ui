@@ -34,6 +34,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [OTF UI Native](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=organic&utm_campaign=awesome-react-native-ui&utm_content=2026-11-02-react-io) - MIT-licensed React Native UI components for Expo apps, sharing component names and design tokens with the OTF web UI package.
+
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-display ★23](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 - [react-native-check-box ★65](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
